@@ -1,0 +1,129 @@
+http://bitcoincharts.com/markets/
+CEX-IO
+http://www.cryptocoincharts.info/markets/info
+
+http://coinmarketcap.com/currencies/bitcoin/#markets
+
+http://insidebitcoins.com/news/coinbase-places-last-in-bitcoin-wallet-privacy-rankings/32637
+
+
+
+
+	In the short 7 year history cyrpto-coin exchanges industry has seen a lot of inovation.  From the early days when the only way trade bitcoin was in person to todays high speed NASDAQ like digital exchanges the industry has seen continous inovation.  Some of the notable invasions along the way include; the BTC-e exchange allowing customers to withdraw funds to a debit or credit card, Coinbase expansion of services to Canada and the most recent inovation from OpenLedger allowing customers to maintain control of there funds rather than transfering them to the exchange.
+
+***
+***
+
+
+Notoriously tight-lipped bitcoin exchange and CoinDesk Bitcoin Price Index member BTC-e is now allowing customers to withdraw funds to Visa and MasterCard debit and credit cards, with some exceptions.
+
+(Rizzo, 2014) 
+
+	
+*************************************************
+
+1. What has been done that was innovative?
+	In 2014 the notoriously tight-lipped exchange BTC-e begain allowing customers to withdraw funds to Visa and MasterCard debit and credit cards.  
+ 
+2. What made it innovative?
+
+Before BTC-e begain allowing debit and credit withdraws getting money off an exchange was a difficult and time consuming processes.  It was also extremely difficult to withdraw funds if you were not in the country hosting the exchange.  BTC-e new withdraw method was inovative because for the first time traders could eailsy and quickly withdraw funds from anywhere in the world.
+ 
+3. How did the businesses initiate and implement their innovative tactics.
+
+To inplement thier inovative withdraw method BTC-e engage local governemnts throughout the world and coordinated with Master card and Visa to establish legal, safe and efficient ways to transfer funds from the exchange to personal credit and debit accounnts.
+ 
+4. How did this impact their business?
+
+The new withdraw methods have encouraged traders to use the BTC-e exchanged, BTC-e has seen an increase in traders and trade volume since the introduction of the new withdraw method.
+ 
+5. How did this impact the industry?
+
+The crypto coin industry is very new and mass adoption of the currency is still a long way off.  One of the difficulties in spreading the use of crypto currencies is the difficulty of exchanging the crypto currencies for governement currencies. BTC-e innovation is making it easier to trade currencies and increasing the pace of crypto currencies adoption by giving customers more options to withdraw funds.
+
+(Rizzo, 2014) 
+
+*************************************************
+
+We have a team of people who have taken the lead to work with policymakers and law enforcement around the world to teach them how this technology works and offer them the resources they need to adapt to the changing landscape
+
+On August 31, Coinbase announced the expansion of its services to Canada.
+
+Canadian customers can now buy and sell Bitcoin with Canadian dollars (CAD) using the San Francisco-based company’s Buy/Sell service, as well as trade the BTC/CAD currency pair on Coinbase Exchange.
+
+(fletcher, 2015)
+
+*************************************************
+
+1. What has been done that was innovative?
+
+In August 2015 the San Francisco based exchange Coinbase announced the expansion of its service to Canada.
+ 
+2. What made it innovative?
+
+Prior to the anoucement customers wanted to trade on the Coinbase exchange has to convert the currency into US dollars before depositing funds into the exchange.  The expansion into Canada is innovating because coinbase exchange can now deal in a new kinda of currency the Canadian dollar and a new trading pair is available.  Traders can now trade Bitcoin directly for Canadian dollars instead of first having to exchange Canadian dollars for US dollars.  
+ 
+3. How did the businesses initiate and implement their innovative tactics.
+
+To initiate and implement the innovation Coinbase put together a team of people who have taken the lead to work with policymakers and law enforcement around the world.
+ 
+4. How did this impact their business?
+
+The expansion into a new market has increased Coinbase customers and increaed the trade volume on the exchange.
+ 
+5. How did this impact the industry?
+
+As coinbase expands into new countries they are increasing the number to people using crypto currencies and increasing demand for digital exchanges.
+
+*************************************************
+
+Denmark’s Crypto Coins Exchange DK Aps (CCEDK) 
+
+ OpenLedger
+
+OpenLedger says it has solved the Mt. Gox ‘problem’ because of open ledgers, proof of solvency, and users never let go of the keys to their own funds)
+
+During his presentation, Boesing will provide details of a partnership between CCEDK and OpenLedger, which is being touted as “perhaps the most powerful” decentralized financial-crypto platform in the world
+
+OpenLedger is designed to solve the problems of speed, stability, security and transparency that still hamper cryptocurrency and prevent its widespread adoption
+
+Unlike most exchanges, OpenLedger allows users to retain control of their own private keys, so funds remain in their sole control, even when they are trading with them. No one can reverse a transaction or freeze an account. The exchange’s funds are all transparently recorded on the blockchain, so they can be audited by anyone, at any time, and whilst user funds can still remain private.
+
+OpenLedger provides a NASDAQ-grade system that enables a remarkable 100,000 transactions per second, and aggregates order books between exchanges for greater liquidity and depth than ever before. It’s the essentially the next generation in terms of execution and latency rates.
+
+( Aikten, 2015)
+
+*************************************************
+
+1. What has been done that was innovative?
+
+Recently OpenLedger annoucend a partnership with the Denmark’s Crypto Coins Exchange (CCEDK).  Together OpenLedger and CCEDK will introduce a major innovation to the crypto exchange industry.  OpenLedger will launch a new exchange that will enable customers to trade currencies without the need to transfer funds to the exchange.
+ 
+2. What made it innovative?
+
+All exciting exchanges require customers to transfer funds to the exchange before trading can accure.  OpenLedger will for the first time enable people to trade crypto currencies without having to first give them to the exchange
+ 
+3. How did the businesses initiate and implement their innovative tactics.
+
+To implement their innovation OpenLedger leveraged their expanded an thier crypto ledger software and partnered with CCEDX to provide a NASDAQ-grade trading system.
+ 
+4. How did this impact their business?
+
+One of the biggest concerns in the crypto exchange industry is theft of bitcoin.  Several exchanges have been attacked by hackers who stole the exchanges crypto coins.  OpenLedger innovative approach allows customers to keep possesion of there coins which greatly reduce the chance coins are lost during trading.  Not taking on the responsibilities to safeguard customer coins resudes the risk associated with operating a digital exachange.
+ 
+5. How did this impact the industry?
+
+It is too early to tell the impact on the industry as OpenLedger has yet to officially launch it's trading platform. However the innovative approach address one of the major risk invloved with crypto currencies and may quicken the pass of adoption.
+
+
+*************************************************
+
+
+
+
+
+
+
+
+
+

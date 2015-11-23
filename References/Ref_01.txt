@@ -1,0 +1,265 @@
+http://bitcoinexchangeguide.com/
+
+*BitStamp	https://www.bitstamp.net/
+Bitfinex 	https://www.bitfinex.com/
+*Coinbase	https://www.coinbase.com/
+*BTC_e		https://btc-e.com/
+
+!! above home page research done
+
+Source: Home Page
+
+LakeBTC		https://www.lakebtc.com/
+OkCoin_Intl	https://www.okcoin.com/
+Kraken		https://www.kraken.com/
+CoinSetter	https://www.coinsetter.com/
+Cryptsy		https://www.cryptsy.com/
+
+LakeBTC
+***************************************************
+To protect your fund, we implemented a number of rigorous mechanisms including SSL encryption, cold storage, 2-step verification, SMS withdrawal confirmation, trade notifications and so on
+
+Besides, we also provide highly-secure market data and trading API's for advanced users who prefer arbitrages, market making, or alogrithm trading.
+
+LakeBTC project was started in early 2013 as a virtual bitcoin exchange initially for traders and other financial professionals. Later that year, the exchange was incorporated and operated under the current domain name. LakeBTC is currently owned by Lake Investments Limited (BVI), with Shanghai Trading IT, Inc. providing technical and customer support.
+
+we implemented a number of rigorous mechanisms including SSL encryption, cold storage, 2-step verification, SMS withdrawal confirmation, and trade notifications.
+
+LakeBTC also provides bitcoin wallet service to all accounts. Users may choose to withdraw bitcoins to their own wallets or simply leave them in LakeBTC. To protect your fund, we implemented a number of rigorous mechanisms including SSL encryption, cold storage, 2-step verification, SMS withdrawal confirmation, and trade notifications
+
+
+
+Customer Support
+Telephone: +86 132 6275 6531 (Mandarin, for the Great China area)
+Twitter: LakeBTC
+Bitcointalk.org: LakeBTC support
+Reddit: LakeBTC in Reddit
+Email: help@LakeBTC.com (do NOT send sensitive information such as passwords, personal documents via email).
+Addr: Suite 606, 231-1 Ludi Avenue, Kunshan, Jiangsu, China. Postal Code: 215332
+Facebook: LakeBTC
+Sina Weibo: ??????LakeBTC
+
+Location
+LakeBTC based in Shanghai
+
+Fee Structure
+03/21/2014 
+
+LakeBTC Maker-Taker Promotion
+
+Operation	
+
+Fees
+
+Deposit	
+FREE, for BTC deposits
+FREE, for deposits via Ripple network
+FREE, if System Banker is selected when creating deposit requests
+varies, for other Bankers
+
+Trading - Taker	0.2%
+
+Trading - Maker	
+0%, if your past calendar month volume > 20,000 BTC.
+0.02%, if volume > 15,000 BTC
+0.04%, if volume > 6000 BTC
+0.06%, if volume > 3000 BTC.
+0.10%, if volume > 500 BTC.
+0.15%, otherwise.
+
+Withdrawal - USD	
+0.1% + 5 USD, if your past-calendar month volume > 15,000 BTC
+0.2% + 5 USD, if volume > 6000 BTC
+0.3% + 5 USD, otherwise.
+bank/3rd-party fees not included.
+
+Withdrawal - BTC	FREE (plus a flat 0.0001 BTC fee for bitcoin network fee)
+Withdrawal/payment fees will be deducted from your remaining balance first, then from the withdrawal amount if necessary.
+
+Email customer support and apply for fee discounts if qualified. All fees are subject to change. LakeBTC reserves the right to modify the terms in our sole discretion at any time.
+
+***************************************************
+
+OkCoin_Intl
+***************************************************
+Cold Storage, SSL
+Years of experience in financial security
+
+High-speed matching engine
+GSLB and distributed servers
+Distribution of global data center
+
+Futures
+BTC/LTC futures with 20x leverage, no USD requirement, multiple delivery dates,
+long-term contracts, margin management tools and more
+
+Margin Trading
+Leverage trading, high returns, profits whatever the trend
+
+Multi-platform
+Web platform, mobile app and API - a selection to
+ensure that wherever and whenever you want
+to trade, the right tool is at hand
+
+OKCoin is a worldwide crypto-currency trading platform
+We are devoted to providing our users an exchange with the best security, speed, and stability
+OKCoin.com is a worldwide digital currency trading platform, OKCoin.cn is a China-focused digital currency trading platform. OKCoin.cn and OKCoin.com are two separate companies owned by the same investors.
+OKCoin was founded in 2013 and received a US$1m Angel Investment from Ventures Lab and Silicon Valley Venture Capitalist Tim Draper. In December 2013, OKCoin closed a Series A round of funding in which it received US$10m(from Ceyuan and Mandra Capital). In early March 2014, OKCoin reached a BTC transaction volume of roughly 293,000 BTC and an LTC transaction volume of roughly 12.9 million LTC. This is the highest crypto-currency transaction volume that any exchange, the world over, has ever had. Our system was able to deftly handle this volume without issue. We constantly strive to provide our users with the best system, products, and services in the industry
+
+All transmitted data goes through 128 bit encryption to ensure that data is not maliciously intercepted.
+
+Except for a very small portion, all Bitcoins are stored in an offline account. When we receive your Bitcoin deposit we send it directly to our offline storage. These addresses will never be put online as to provide absolute security for customer funds.
+
+We use distributed cluster technology to ensure we are always online. We are currently sourcing servers in multiple data centers to do load balancing to ensure a stable trading platform.
+
+Our Team
+We employ a team that is young, professional, meticulous, happily dedicated, and thirsty for success. Each and every one of us are enthusiastic to be working in our industry.
+Our team consists of employees with extensive experience working at Google, Alibaba, Baidu, IBM, Microsoft, and other industry leading companies. Furthermore, the majority hold PhD or Master degrees.
+Even though we are always working late into the night and despite the fact that innovation is no easy task, we all share the same goal and enjoy the process of reaching that goal together.
+
+Trading Fees
+30 Day Volume	Taker Trading Fee	Maker Trading Fee	Futures Open Position Fee	Futures Close Position Fee
+0 BTC		0.20%			0			0.03%				0
+50 BTC		0.18%			0			0.03%				0
+200 BTC		0.16%			0			0.03%				0
+600 BTC		0.14%			0			0.03%				0
+1500 BTC	0.12%			0			0.03%				0
+5000 BTC	0.10%			0			0.03%				0
+
+
+Deposit & Withdrawal Fees
+USD Deposit:	Bank Transfer/Wire: Only the fees charged by banks will be incurred.
+USD Withdrawal:	TT fee: 0.1%, minimum fee $15 USD
+BTC Withdrawal:	0%
+LTC Withdrawal:	0%
+
+Contact Us
+Ticket 
++852 5808 5768 Hong Kong
++122 6798 4487 Canada
++353 1437 2473 Ireland
++65 3158 1726 Singapore 
++749 5373 1465 Russia  
+All lines are available from 00:00 - 21:00 UTC + 02:00 
+Individual: support@okcoin.com
+Corporate: corporate@okcoin.com @OKCoinBTC OKCoinBTC
+
+!!quote "The second time I met with Star (Mingxing) Xu, it was at the same office building in the Shangdi district of Beijing,"(http://www.coindesk.com/okcoin-ceo-expansion-china-competitive-edge/)
+
+!!quote "Headquarters
+Yiquanhui, Shangdi East Road Shangdi Beijing, Beijing 100085 China"(https://www.linkedin.com/company/okcoin)
+
+!!quote "Company Size
+51-200 employees"(https://www.linkedin.com/company/okcoin)
+
+Promotion includes linked in
+
+
+***************************************************
+
+Kraken
+***************************************************
+Now offering maring trading
+
+Encrypted cold storage
+
+XBT/EUR
+
+XBT/USD
+
+XBT/CAD
+
+XBT/GBP
+
+
+XBT/JPY
+
+LTC/EUR
+
+LTC/USD
+
+XBT/LTC
+
+
+KRAKEN BITCOIN EXCHANGE PUTS YOU FIRST
+Founded in 2011, San Francisco-based Kraken is the largest Bitcoin exchange in euro volume and liquidity and also trading Canadian dollars, US dollars, British pounds and Japanese yen. Kraken is consistently rated the best and most secure Bitcoin exchange by independent news media. Kraken was the first Bitcoin exchange to have trading price and volume displayed on the Bloomberg Terminal, the first to pass a cryptographically verifiable proof-of-reserves audit, and is a partner in the first cryptocurrency bank. Kraken is trusted by hundreds of thousands of traders, the Tokyo government's court-appointed trustee, and Germany's BaFin regulated Fidor Bank.
+
+"Our mission is to provide an exceptional bitcoin exchange experience"
+- Jesse Powell, CEO and Co-founde
+
+has api
+
+Contact by web form Or send us mail at Kraken 548 Market Street #39656 San Francisco, CA 94104-5401
+
+facebook linkedin git twitter
+
+FEE SCHEDULE
+Listed below are the fee schedules, margin, and leverage info for the currency pairs available for trading on Kraken.
+
+The fee schedules are tier-based: the more total volume you trade in your account, the lower your fee on subsequent trades (once the next volume tier for the currency pair is reached). Other fee considerations:
+
+Fees are charged on a per-trade basis.
+Fees are calculated as a percentage of the trade's quote currency volume (by default). Certain pairs allow the fee to be calculated based on the trade's base currency, which can be specified when ordering using the Fee Currency option.
+User fee volume levels are measured using the equivalent market value of the listed "Fee Volume Currency" at the time of the trade. Note that this currency may be different from the pair's base or quote currency.
+User fee volume levels are measured and applicable for trades occurring in the last 30 days only.
+Additional Fees
+
+Processing fee for paper copies of communications: $60/page
+
+
+Fee Schedule
+
+Maker	Taker	Volume
+0.16%	0.26%	< 10,000
+0.14%	0.24%	< 50,000
+0.12%	0.22%	< 100,000
+0.10%	0.20%	< 250,000
+0.08%	0.18%	< 500,000
+0.06%	0.16%	< 1,000,000
+0.04%	0.14%	< 5,000,000
+0.02%	0.12%	< 10,000,000
+0.00%	0.10%	> 10,000,000
+
+
+***************************************************
+
+CoinSetter
+***************************************************
+Wall Street grade technology at your fingertips
+
+Connect to Coinsetter's CSX technology through our FIX, WebSockets and REST APIs for a low latency trading experience – the fastest available in the bitcoin market. Our FIX API makes CSX a plug-and-play bitcoin exchange for most trading systems. Our web platform is also connected to CSX via our API to give all users quick access to real time prices and fast trade execution.
+
+Reach our New York City team by phone and email
+
+We offer high touch customer support with our New York City team. The bitcoin industry is new and complex, and we're here to help you use our platform, achieve your trading objectives and promote your success. If you need assistance, feel free to contact us by email or by phone at (212) 641-0620. Our call hours extend from 1PM to 4PM Eastern Time, and we offer email support throughout the business day.
+
+With Coinsetter's margin trading capabilities, users of all types can execute larger bitcoin trades with up to 3.3x leverage. Traders also have the ability to short the bitcoin price in the deliverable spot market.
+
+PARTNERS
+Securicoin® is an enterprise bitcoin security solution designed specifically to meet the standards of Wall Street institutions. Bitcoins held in the Securicoin® system are contained in highly-protected offline wallets that never directly touch the internet. Furthermore, a human is always involved to verify the validity of each withdrawal made from your account. Bitcoin market participants that value security over all else will take comfort in Securicoin's complete separation of your bitcoins from outside threats.
+
+Coinsetter is a New York City, venture capital financed bitcoin exchange that is dedicated to making bitcoin safe and reliable for active users globally. Operating since 2012, our company offers a Wall Street class bitcoin trading platform with easy-to-reach customer support.
+
+Jaron Lukasiewicz
+Chief Executive Officer and Founder
+
+Office in New york, NY
+
+contact via email, phone, mail, personal visit
+
+Trailing 30 Day Trading Volume	Our Trade Fee
+0 BTC to 999 BTC		0.25%
+1,000 BTC to 4,999 BTC		0.20%
+5,000 BTC to 9,999 BTC		0.15%
+10,000+ BTC			0.10%
+
+Market Maker Program:
+Coinsetter offers partner programs to designated market makers on our exchange.
+
+
+***************************************************
+
+Cryptsy
+***************************************************
+
+***************************************************

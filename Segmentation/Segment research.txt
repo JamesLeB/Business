@@ -1,0 +1,87 @@
+
+Macro 1
+	Micro 1
+	Micro 2
+Macro 2
+	Micro 3
+	Micro 4
+
+
+www.coindesk.com/research/who-really-uses-bitcoin
+
+“The project attempted to pinpoint the demographics of bitcoin, to test commonly-held assumptions in the media that it is a community dominated by young, white males with a technical background. “
+
+http://www.coindesk.com/new-coindesk-report-reveals-who-really-uses-bitcoin/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+CoinDesk+%28CoinDesk+-+The+Voice+of+Digital+Currency%29
+
+“almost 60% were under 35 years old.”
+
+Bitcoin user age
+00-18  3.7%
+19-24 16.5% 
+25-34 39.4%
+35-44 21.9%
+45-54 11.2%
+55-64  4.8%
+65+    2.2%
+
+“90% of bitcoin users in our survey identifying as male”
+
+“With regards to race, 65.8% of respondents in the survey identified as 'White'. Second came 'Asian’.”
+
+Household income
+200,000    plus      6.4%
+199,999 -> 100,000  15.8%
+ 99,999 ->  50,000  23.9%
+ 49,999 ->  25,000  21.9%
+ 25,000    minus    21.2%
+
+“While many are tech-savvy, the notion of bitcoin users being 'early adopters' of technology also stumbled into trouble. Three quarters of respondents said they got into bitcoin after May 2013, and one third began using bitcoin in the last year.”
+
+“In terms of the location of respondents, 49.85% were based in North America, followed by 32.99% in Europe and 9.36% in Asia.”
+
+
+
+www.zerohedge.com/news/2013-03-10/demographics-bitcoin
+
+“With the growing popularity and perhaps relevance of a globally decentralized currency system in a world adrift in fiat devaluation death-matches, it is perhaps interesting to understand just who these Bitcoin'ers are? The ongoing survey of Bitcoin users (here) has some intriguing results already: The 'average Bitcoin user' is male (96%), 32.7 years old, libertarian / anarcho-capitalist (37%), non-religious (61%), with a full time job (43%), and is in a relationship (56%). The biggest motivation for new users are curiosity, profit, and politics; and 39% of users do not drink, smoke, gamble, or take drugs. Just over half of users have mined bitcoins and the greatest community fear for Bitcoin is “regulatory/legal intervention” followed by ”reputation problems”. Overall more people seem to find Bitcoin intellectually rewarding (70% have learned more about cryptography) than socially rewarding (22% have made friends).”
+
+“Some highlights…
+The average user is a 32.7 year old libertarian male.
+Top motivators for new users are curiosity, profit, and politics.
+Bitcointalk.org is the dominant community platform.
+Far more people have used Bitcoin to make donations than to buy narcotics.
+39% of users do not drink, smoke, gamble, or take drugs.”
+
+“The “average Bitcoin user” is male (96%), 32.7 years old, libertarian / anarcho-capitalist (37%), non-religious (61%), with a full time job (43%), and is in a relationship (56%).”
+
+“The biggest motivation in exploring Bitcoin is curiosity (4.3/5), followed by profit (3.7/5) and politics (3.5/5). Trailing behind are practical concerns (3.1/5), challenge (2.9/5), and community (2.7/5).”
+
+“ust over half of users have mined bitcoins, most of them as part of a mining pool. The average hash rate (using geometric mean) is 318 MH/s. The average miner has spent $3,188 on a rig, but the spread is huge.  The median spend is $500, 35% of miners have spent nothing, while 8% have spent $10,000 or more.”
+
+“
+As expected Bitcointalk.org is the dominant platform of discussion, used by 76% of users. Reddit (39%) also had a strong showing, while the classic IRC got a mere 24%.  Google+ had a strong showing among early respondents which is now somewhat dwindled, at 18%.
+
+The greatest community fear for Bitcoin is “regulatory/legal intervention” (29%) followed by ”reputation problems” (19%).  A large number of people answered “Other” and in the free-form field wrote to the effect that Bitcoin was too technically demanding for mainstream use.
+
+The most common use of bitcoins was for gifts/donations (55%), while computer services was also quite high (38%).  Only 11% of respondents have bought narcotics (using Bitcoin that is). In fact the community has a contingent of clean-living ascetics, 39% of respondents do not drink, smoke, take drugs, or gamble.
+“
+
+“Overall more people seem to find Bitcoin intellectually rewarding (70% have learned more about cryptography) than socially rewarding (22% have made friends).”
+
+Realationship to bitcoin
+
+82% User
+42% Miner
+11% Merchant of BTC
+14% Merchant other good accepting BTC
+60% Investor
+12% Gambler
+26% Activist
+17% Researcher
+16% Developer
+ 3% Other
+
+
+www.zerohedge.com/news/2013-03-10/demographics-bitcoin
+
+excel downloaded from above 
