@@ -12,8 +12,9 @@ Macro Marketing Challenges
 Macro SWOT Analysis
 Segmentation
 Product
-*Place
-*Logitics
+Place
+	‘place should start with place objectives then go on to channel systems’
+	Logitics
 Channel Systems
 Promotion
 Operations
