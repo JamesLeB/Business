@@ -64,9 +64,12 @@ Develop new processes and programs.
 Inform the chief executive officer, and ultimately the board of directors, of all program issues and accomplishments.
 Assist the CEO in planning, organizing, and implementing public and private fund-raising initiatives
 ***********************************************
+
 Chief Technology Officer Job Description
+
 SUMMARY
 Responsible for developing, enhancing, and deploying a company's web presence. Ensures execution of company's business goals and strategies
+
 PRIMARY RESPONSIBILITIES
 Establish governance processes of direction and control to ensure that objectives are achieved.
 Direct and development a security plan.
@@ -86,6 +89,12 @@ Monitor web analytics regime to ascertain site traffic.
 Implement technical requirements for Internet marketing and search engine optimization.
 Integrate customer service and support with the software engineering process to support resolution of customer issues and improve application usability.
 ***********************************************
+
+
+
+
+
+
 Compliance
 Position Description
 Chief Compliance Officer
