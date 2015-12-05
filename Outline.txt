@@ -1,26 +1,40 @@
-Executive Summary
+﻿Executive Summary
+
 Mission Statement
+
 Industry Analysis
-*Step Analysis
-*Porter’s Five Forces
+	*Step Analysis
+	*Porter’s Five Forces
+
 Competitor Analysis
-*Critical Success Factors Matrix
-*Competitor Success Factors Matrix
+	*Critical Success Factors Matrix
+	*Competitor Success Factors Matrix
+
 Company Background
-	Management Team
-Macro Marketing Challenges
-Macro SWOT Analysis
+	*Management Team
+
 Segmentation
+	*Macro Marketing Challenges
+	*Macro SWOT Analysis
+
 Product
+
 Place
 	‘place should start with place objectives then go on to channel systems’
-	Logitics
-Channel Systems
+	*Logitics
+	*Channel Systems
+
 Promotion
+
 Operations
+
 Price
+
 Financial Statements
+
 Exit Strategy
+
 References
+
 Appendices
 	Appendix A: name of appendix
