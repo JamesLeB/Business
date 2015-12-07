@@ -7,7 +7,22 @@ indusrty growth rates
 
 Segments
 	minor growth / investement in mining equipement
+		"Money came easily to startup KnCMiner, which says it made $70 million in revenue in its first year of operations from selling bitcoin mining equipment."(http://blogs.wsj.com/venturecapital/2014/09/05/for-kncminer-time-to-forget-selling-bitcoin-machines-to-at-home-miners/)
+
+	picture of minior setup(http://www.coindesk.com/megabigpower-launches-global-franchisee-network-add-50phs-per-month-bitcoin-network/)
+
 	site that except bitcoin
+		Microfsoft
+		Dell
+		Overstocked
+		Newegg
+		TigerDirect
+		
+
+	People who want to buy bitcoin
+	People who want to sell bitcoin
+	day traders looking to make money
+
 
 Promotion
 	user growth rates for key competitors
@@ -41,3 +56,12 @@ https://blockchain.info/charts/n-transactions?timespan=all&showDataPoints=false&
 https://www.coinbase.com/charts
 
 Accepting merchants
+
+
+Add to business plan
+explanation for anaul average rev per trader
+explanation for customer growth
+explanation for 5% market trade volumn
+
+Coinbase start to current market share
+
