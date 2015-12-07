@@ -23,3 +23,21 @@ need financials
 setup cost.
 marketing costs
 user / revenue growth
+
+
+Coinbase users
+
+http://www.coindesk.com/coinbase-650000-wallet-users/
+https://www.reddit.com/r/Bitcoin/comments/2u2n72/coinbase_hits_2_million_users/
+https://www.reddit.com/r/Bitcoin/comments/3p3k16/coinbase_hits_27_million_users/
+https://www.reddit.com/r/Bitcoin/comments/3cnra7/coinbase_hits_24_million_users_31_million_wallets/
+
+Transaction growth
+
+##Transaction growth
+https://blockchain.info/charts/n-transactions?timespan=all&showDataPoints=false&daysAverageString=1&show_header=true&scale=0&address=
+
+##PRICE CHART
+https://www.coinbase.com/charts
+
+Accepting merchants
