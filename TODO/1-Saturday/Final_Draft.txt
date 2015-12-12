@@ -1,0 +1,113 @@
+
+
+
+
+
+Business Plan
+Currency Exchange
+Owner - James LeBlanc
+Capstone Course
+Innovation and Entrepreneurship
+Professor Myron Gould
+New York University
+December 13, 2015
+
+Table contents
+
+Executive Summary
+Needs to be done
+Mission Statement
+Our mission is to provide a safe and reliable place for customers to exchange currency.
+Provide:  We are a first and foremost a service provider.  By maintaining a digital currency exchange we will provide an important currency exchanging service.
+Safe:  The safety of the currency customers have entrusted to the exchange is a paramount concern.  Only customers who trust us will be willing to use our service.  Building trust begins with demonstrating our ability to keep our customers money safe.
+Reliable:  Currency Exchange will operate 24 hours a day 7 days a week.  The continuous availability of our services with demonstrate to our customers both our reliability and commitment to our customers’ needs.  
+Place:  Currency Exchange is a place where customers can come to safely exchanged on currency for another.  Providing an online place for currency to occur is our primary business.
+Customers:  Our customers are our most important asset.  Finding new customers and maintaining current customers is and will always be a principle goal of Currency Exchange.  For this reason customer satisfaction will be an extremely important measure of success.
+Exchange:  Currency Exchange core service we provide and this service is made possible by the online digital exchange that is a the heart of the company
+Currency:  The exchange of one currency for another is a vital function of the modern global economy.  Crypto-currencies are a new form of money and the exchange between these new currencies and traditional government money is critical factor in their continued adoption.
+Core Competency
+	The core competency of the currency exchange is the operation of a 24 by 7 digital currency exchange.  The account management and transaction processing that is vital to the operation of a digital exchange will be the primary area of expertise Currency Exchange will demonstrate.
+Industry Analysis
+NAICS
+U.S. Census Bureau 2012 NAICS Code:  523210
+Title:  Securities and Commodity Exchanges
+Definition:  “This industry comprises establishments primarily engaged in furnishing physical or electronic marketplaces for the purpose of facilitating the buying and selling of stocks, stock options, bonds, or commodity contracts.” (NAICS, 2012)
+Industry history
+Currency trading has been going on for a long time.  “Foreign-exchange trading dates back to ancient times.”  Throughout history countries and banks have engaged in currency trading.  In 2013 on average $5.3 trillion dollars changed hands each day.  (Levinson, 2014)  Prior to 2007 most currency trading involved government issued currencies (e.g., US dollars, Chinese Yuan).  However in 2009 Satoshi Nakamoto introduced a new non-government currency.
+“Bitcoin is the first implementation of a concept called "cryptocurrency", which was first described in 1998 by Wei Dai on the cypherpunks mailing list, suggesting the idea of a new form of money that uses cryptography to control its creation and transactions, rather than a central authority. The first Bitcoin specification and proof of concept was published in 2009 in a cryptography mailing list by Satoshi Nakamoto. Satoshi left the project in late 2010 without revealing much about himself.  The community has since grown exponentially with many developers working on Bitcoin.” (“Bitcoin Faq,” 2015)  Since its introduction there have been a growing number of businesses and individuals using Bitcoin.  One way to acquire Bitcoin by is by purchasing them at a Bitcoin exchange.  This has created a new industry around the exchanging of Bitcoin for government issued currencies.
+Industry profile
+Background:  In the early days of Bitcoin the only way to acquire them was to “mine” them, a process of solving a mathematical problem the resulted in the creation of a new Bitcoin.  On July17, 2010 MtGox was established as a currency exchange where customers could go to purchase and sell Bitcoin.(“History of Bitcoin,” 2015)  Between 2010 and 2014 several currency exchanges established throughout the world.  In February 2014 Mt. Gox suspended trading following the theft of 850,000 Bitcoin valued at over 450 million dollars belonging to customers of the exchange.  Mt. Gox’s collapse was the first of several exchanges to cease operations.  As the value of Bitcoin rose and transaction volume increased these early exchanges proved to be easy targets for international hackers.
+Key industry players:  As the first Bitcoin exchanges collapsed several new exchanges were established with stronger safe-guards against hackers and thieves.  Today the industry is dominated by six exchanges; BTC-e, Bitstamp, Kraken, Cryptsy, CCEDX and ICE3X.  These six exchanges have a combined daily volume of 71,000 bitcoin valued at over 16 million US dollars.
+Trends:  Despite the collapse of Mt. Gox and the resulting price fluctuations the remaining exchanges have seen steadily increasing transaction volume.  Throughout the world an increasing number of business and individuals are using Bitcoin.  This increased use is driving demand for currency exchanging services. 
+Forecasts:  After a year of wild fluctuations in 2015 the price of Bitcoin stabilized.  Price stability together with the increased trading volume indicates a positive future for the Bitcoin and the supporting crypto currency ecosystem.  As use of new currency spreads there will be an increased demand for currency exchanges.
+Step Analysis
+
+
+
+
+end
+Porter’s Five Forces
+Done
+Competitor Analysis
+Done
+Critical Success Factors Matrix
+Done
+Competitor Success Factors Matrix
+Done
+Company Background
+Needs to be done
+
+Management Team
+Needs to be done
+	Chief Executive Officer
+	Chief Financial Officer
+	Chief Information Officer
+	Chief Technology Officer
+	Chief Operations Officer
+	Chief Compliance Officer
+Macro Marketing Challenges
+Finished first draft
+Macro SWOT Analysis
+Finished first draft
+Segmentation
+Finished first draft
+Product
+Needs to be done
+Physical good
+service
+assurance of quality
+repair facilities
+packaging
+Place
+Done
+‘place should start with place objectives then go on to channel systems’
+Logitics
+Not sure
+Channel Systems
+Not sure
+Promotion
+Needs to be done
+Operations
+Needs to be done submit by this weekend
+
+Price
+Needs to be done
+	begin with objective statement
+	price flexibility
+	price levels over product life cycle
+	discounts and allowances to whom and when
+	geographic terms: who pays for transportation
+Financial Statements
+Needs to be done submit by weekend
+Prepare Financial Statements for Year 1, Year 2 and Year 3 using the template provided.
+Balance sheet
+Profit and loss
+Break even analysis
+Exit Strategy
+Needs to be done
+*Look at Term sheet in appendix of example plans
+
+References
+Appendices
+Appendix A: name of appendix
+End of Draft
